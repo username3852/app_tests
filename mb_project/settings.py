@@ -25,7 +25,7 @@ SECRET_KEY = 'ncq4&7^5fc-7(crn_ac3v&+z670c)flvc_4_db&5#orzew3330'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
